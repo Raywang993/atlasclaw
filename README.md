@@ -101,6 +101,7 @@ project-root/
 └── tests/                     # Pytest test suite
 ```
 
+
 ## Quick Start
 
 ### Requirements
